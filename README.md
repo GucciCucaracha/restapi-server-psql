@@ -8,7 +8,9 @@ RESTful server + psql database package (restdb)
 go build
 ```
 3. Complete main:
+
 `./main`
 
 4. And test connection: 
+
 `curl localhost:8081:/time`
