@@ -7,10 +7,13 @@ RESTful server + psql database package (restdb)
 ```bash
 go build
 ```
-3. Complete main:
 
-`./main`
+3. Complete main:
+```bash
+./main
+```
 
 4. And test connection: 
-
-`curl localhost:8081:/time`
+```bash
+curl localhost:8081:/time
+```

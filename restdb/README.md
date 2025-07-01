@@ -13,6 +13,7 @@ psql -U emo4ka postgres -h 127.0.0.1 < create_db.sql
 psql creds:
 
 username: `emo4ka`
+
 passwd:   `love666`
 
 
