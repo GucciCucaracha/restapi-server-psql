@@ -1,0 +1,4 @@
+# For not including PostgreSQL data
+postgres/*
+
+
