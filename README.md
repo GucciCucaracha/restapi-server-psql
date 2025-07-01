@@ -15,5 +15,5 @@ go build
 
 4. And test connection: 
 ```bash
-curl localhost:8081:/time
+curl localhost:8081/time
 ```
