@@ -1,2 +1,14 @@
 # This restapi-server-psql
 RESTful server + psql database package (restdb)
+
+1. Go to `restdb` directory and dive to README
+
+2. Come back here and build this program:
+```bash
+go build
+```
+3. Complete main:
+`./main`
+
+4. And test connection: 
+`curl localhost:8081:/time`
